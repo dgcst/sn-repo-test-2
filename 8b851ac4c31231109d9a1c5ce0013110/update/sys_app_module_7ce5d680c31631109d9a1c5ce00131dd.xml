@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Test repo">f8e5d680c31631109d9a1c5ce00131d9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Main table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>dgcst</sys_created_by>
+        <sys_created_on>2023-10-30 15:32:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7ce5d680c31631109d9a1c5ce00131dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Main table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test repo" source="x_597559_testrepo1">8b851ac4c31231109d9a1c5ce0013110</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test repo">8b851ac4c31231109d9a1c5ce0013110</sys_scope>
+        <sys_update_name>sys_app_module_7ce5d680c31631109d9a1c5ce00131dd</sys_update_name>
+        <sys_updated_by>dgcst</sys_updated_by>
+        <sys_updated_on>2023-10-30 15:32:40</sys_updated_on>
+        <timeline_page/>
+        <title>Main table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

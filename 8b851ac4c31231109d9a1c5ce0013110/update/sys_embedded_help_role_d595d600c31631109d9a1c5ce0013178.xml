@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_597559_testrepo1.test role" name="x_597559_testrepo1.test role">8195d600c31631109d9a1c5ce0013175</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>dgcst</sys_created_by>
+        <sys_created_on>2023-10-30 15:31:20</sys_created_on>
+        <sys_id>d595d600c31631109d9a1c5ce0013178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>8195d600c31631109d9a1c5ce0013175</sys_name>
+        <sys_package display_value="Test repo" source="x_597559_testrepo1">8b851ac4c31231109d9a1c5ce0013110</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test repo">8b851ac4c31231109d9a1c5ce0013110</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d595d600c31631109d9a1c5ce0013178</sys_update_name>
+        <sys_updated_by>dgcst</sys_updated_by>
+        <sys_updated_on>2023-10-30 15:31:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
